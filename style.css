@@ -1,0 +1,37 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Box1{
+    width: 45%;
+    margin: auto;
+    border: 2px solid rgb(180, 178, 178);
+}
+.Box1_1{
+    width: 45%;
+    margin: auto;
+    }
+.Box1_1 img{
+    width: 100%;
+}
+.Box2{
+    width: 45%;
+    margin: auto;
+    border: 2px solid rgb(180, 178, 178);
+}
+.Box2_1{
+    width: 45%;
+    margin: auto;
+}
+.Box2_1 img{
+    width: 100%;
+}
